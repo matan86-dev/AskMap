@@ -1,0 +1,1 @@
+Put your sample 'tel_aviv_sample.tif' GeoTIFF here.
